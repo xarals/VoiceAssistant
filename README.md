@@ -2,6 +2,9 @@
 
 [![Python version](https://img.shields.io/badge/python-3.8-blue.svg)](https://python.org)
 
+## Features
+### Time
+
 ## Setup
 1. Install Python 3.8.
 2. During the setup, tick Install launcher for all users (recommended) and Add Python 3.8 to PATH when prompted.
