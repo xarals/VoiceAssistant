@@ -1,0 +1,14 @@
+requests
+num2words
+pygame
+numpy
+pandas
+scikit-learn
+vosk
+sounddevice
+pyttsx3
+Pillow
+chess
+stockfish
+tensorflow
+opencv-python
